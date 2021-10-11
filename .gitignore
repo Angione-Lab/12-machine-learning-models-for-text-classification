@@ -1,0 +1,9 @@
+data/enron_dataset/Enron/Raw
+data/enron_dataset/Enron/Processed/enron1
+data/enron_dataset/Enron/Processed/enron2
+data/enron_dataset/Enron/Processed/enron3
+data/enron_dataset/Enron/Processed/enron4
+data/enron_dataset/Enron/Processed/enron5
+data/enron_dataset/Enron/Processed/enron6
+venv/
+data/nltk_data
