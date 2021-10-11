@@ -1,5 +1,5 @@
-# Expert Systems - ESWA-D-20-01852
-This repository contains the python code that produced the data for the following paper submission: ESWA-D-20-01852
+# Expert Systems
+This repository contains the python code that produced the data for a paper submission.
 
 ## How to run
 The following steps are required to run the code:
