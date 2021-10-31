@@ -7,3 +7,5 @@ data/enron_dataset/Enron/Processed/enron5
 data/enron_dataset/Enron/Processed/enron6
 venv/
 data/nltk_data
+results
+.idea
