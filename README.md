@@ -1,6 +1,6 @@
 # Expert Systems
 This repository contains the Python code and data to reproduce the results presented in the paper:
-A. Occhipinti*, L. Rogers*, C.  Angione, "A pipeline and comparative study of 12 machine learning models for text classification", Expert Systems with Applications, 2012.
+A. Occhipinti*, L. Rogers*, C.  Angione, "A pipeline and comparative study of 12 machine learning models for text classification", Expert Systems with Applications, 201 (2022): 117193
 
 ## How to run
 The following steps are required to run the code:
